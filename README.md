@@ -1,1 +1,1 @@
-# InboxShieldPro
+# Deliverability Intelligence
